@@ -1,11 +1,8 @@
 # Walmart Sales Data Analysis
-<br>
-Author - Het Shah
-<br>
 
 A comprehensive analysis of Walmart’s sales dataset using Python, Pandas, and Seaborn. This project showcases skills in data cleaning, exploratory data analysis (EDA), data visualization, and profitability insights.
 
----
+Author - Het Shah
 
 ## Objective
 
