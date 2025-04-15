@@ -62,7 +62,6 @@ To analyze sales trends and patterns in Walmart transactional data and extract a
 ## Visualizations
 
 - ✅ Daily Revenue Trend
-- ✅ Top 5 Cities by Sales
 - ✅ Profit by Product Category
 - ✅ Correlation Heatmap of Numerical Variables
 
